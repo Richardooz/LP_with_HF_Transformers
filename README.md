@@ -8,7 +8,7 @@
 
 </div>
 
-## Name : Arifian Saputra
+## Name : Richardo Danuarta Tondang
 
 ## My todo : 
 
